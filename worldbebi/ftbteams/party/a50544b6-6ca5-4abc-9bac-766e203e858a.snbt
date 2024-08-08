@@ -1,0 +1,22 @@
+{
+	id: "a50544b6-6ca5-4abc-9bac-766e203e858a"
+	type: "party"
+	owner: "2ee62094-8184-45ef-bfd4-1c653947cc69"
+	ranks: {
+		2ee62094-8184-45ef-bfd4-1c653947cc69: "owner"
+		24934720-8885-47ce-8cc5-5f61a666ff40: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Bip and Bop"
+		"ftbteams:description": ""
+		"ftbteams:color": "#61FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722938086116L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Vichiwi\"}]}" }
+		{ from: "2ee62094-8184-45ef-bfd4-1c653947cc69", date: 1722938086129L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"thiccseadoggo\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722938107860L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"thiccseadoggo\"}]}" }
+	]
+	extra: { }
+}

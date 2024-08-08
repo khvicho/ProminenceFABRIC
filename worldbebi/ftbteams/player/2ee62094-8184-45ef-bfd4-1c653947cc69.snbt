@@ -1,0 +1,15 @@
+{
+	id: "2ee62094-8184-45ef-bfd4-1c653947cc69"
+	type: "player"
+	player_name: "Vichiwi"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Vichiwi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#61FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
