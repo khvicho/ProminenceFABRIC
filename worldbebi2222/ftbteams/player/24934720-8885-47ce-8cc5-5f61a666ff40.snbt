@@ -1,0 +1,15 @@
+{
+	id: "24934720-8885-47ce-8cc5-5f61a666ff40"
+	type: "player"
+	player_name: "thiccseadoggo"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "thiccseadoggo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#75FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

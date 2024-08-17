@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "2ee62094-8184-45ef-bfd4-1c653947cc69",
+    "name": "Vichiwi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
